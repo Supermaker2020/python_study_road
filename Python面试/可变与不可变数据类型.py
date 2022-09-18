@@ -1,0 +1,10 @@
+a=1
+print(id(a))
+a=2
+print(id(a))
+b=1
+print(id(b))
+c=300
+print(id(c))
+d=300
+print(id(d))
